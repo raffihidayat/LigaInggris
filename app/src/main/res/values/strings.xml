@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LigaInggris</string>
+    <string name="food_name">Nama</string>
+    <string name="food_description">Describtion</string>
+    <string name="club_name">nama</string>
+    <string name="club_description">description</string>
+</resources>
